@@ -18,7 +18,7 @@ async def tafsir_menu(message: Message):
 async def admin_aloqa(message: Message):
     text = "————————————————————————\n\n"
     text += "<b>Assalomu aleykum va raxmatullohi va barokatuh 😊</b> \n"
-    text += "<b>@alquronuzBot ga hush kelibsiz !</b>\n\n"
+    text += "<b>@quranaudiolibrarybot ga hush kelibsiz !</b>\n\n"
     text += "➖➖➖➖➖➖➖➖➖➖\n\n"
     text += "<b>Taklif va muammolar bo'lsaadmin bilan bog'laning </b>\n"
     text += "<b>Bog'laninish uchun admin @Jamshidharker9363</b>\n\n"
@@ -31,7 +31,7 @@ async def admin_aloqa(message: Message):
 async def help_button_command(message: Message):
     text = "————————————————————————\n\n"
     text += "<b>Assalomu aleykum va raxmatullohi va barokatuh 😊</b>\n"
-    text += "<b>@alquronuzBot ga hush kelibsiz !</b>\n\n"
+    text += "<b>@quranaudiolibrarybot ga hush kelibsiz !</b>\n\n"
     text += "➖➖➖➖➖➖➖➖➖➖\n\n"
     text += "<b>Bu bot orqali siz ko'plab qorilarni qiroatlari,</b>\n"
     text += "<b>O'zbek , Rus, Ingliz tilidagi tarjimalarini topishinggiz mumkin.</b>\n\n"
@@ -44,7 +44,7 @@ async def help_button_command(message: Message):
 async def help_command(message: Message):
     text = "————————————————————————\n\n"
     text += "<b>Assalomu aleykum va raxmatullohi va barokatuh 😊</b>\n"
-    text += "<b>@alquronuzBot ga hush kelibsiz !</b>\n\n"
+    text += "<b>@quranaudiolibrarybot ga hush kelibsiz !</b>\n\n"
     text += "➖➖➖➖➖➖➖➖➖➖\n\n"
     text += "<b>Bu bot orqali siz ko'plab qorilarni qiroatlari,</b>\n"
     text += "<b>O'zbek , Rus, Ingliz tilidagi tarjimalarini topishinggiz mumkin.</b>\n\n"
