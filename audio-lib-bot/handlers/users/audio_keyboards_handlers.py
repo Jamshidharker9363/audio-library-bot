@@ -90,7 +90,7 @@ async def resite_qori(message: Message, state: FSMContext):
 async def resite_help(message: Message):
     text = "————————————————————————\n\n"
     text += "<b>Assalomu aleykum va raxmatullohi va barokatuh 😊</b>\n"
-    text += "<b>@alquronuzBot ga hush kelibsiz !</b>\n\n"
+    text += "<b>@quranaudiolibrarybot ga hush kelibsiz !</b>\n\n"
     text += "➖➖➖➖➖➖➖➖➖➖\n\n"
     text += "<b>Bu bot orqali siz ko'plab qorilarni qiroatlari,</b>\n"
     text += "<b>O'zbek , Rus, Ingliz tilidagi tarjimalarini topishinggiz mumkin.</b>\n\n"
@@ -103,7 +103,7 @@ async def resite_help(message: Message):
 async def resite_help(message: Message):
     text = "————————————————————————\n\n"
     text += "<b>Assalomu aleykum va raxmatullohi va barokatuh 😊</b>\n"
-    text += "<b>@alquronuzBot ga hush kelibsiz !</b>\n\n"
+    text += "<b>@quranaudiolibrarybot ga hush kelibsiz !</b>\n\n"
     text += "➖➖➖➖➖➖➖➖➖➖\n\n"
     text += "<b>Bu bot orqali siz ko'plab qorilarni qiroatlari,</b>\n"
     text += "<b>O'zbek , Rus, Ingliz tilidagi tarjimalarini topishinggiz mumkin.</b>\n\n"
